@@ -1,0 +1,26 @@
+{
+  "name": "koa2-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "7": "^0.0.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "ejs": "^2.5.7",
+    "koa": "^2.3.0",
+    "koa-better-body": "^3.0.4",
+    "koa-compress": "^2.0.0",
+    "koa-convert": "^1.2.0",
+    "koa-cors": "^0.0.16",
+    "koa-json": "^2.0.2",
+    "koa-logger": "^3.1.0",
+    "koa-onerror": "^3.1.0",
+    "koa-router": "^7.2.1",
+    "koa-session2": "^2.2.5",
+    "koa-static": "^4.0.1",
+    "koa-views": "^6.1.1",
+    "nodemon": "^1.12.1"
+  }
+}
